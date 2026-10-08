@@ -1,0 +1,16 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Test artifacts
+quiz_input.txt
+
+# OS files
+Thumbs.db
+.DS_Store
