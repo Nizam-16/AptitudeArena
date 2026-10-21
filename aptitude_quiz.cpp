@@ -1,5 +1,5 @@
 // ============================================================
-//  APTITUDE QUIZ - C++ Mini Project
+//  AptiQuiz - C++ Mini Project
 //  A randomised aptitude test with instant feedback,
 //  topic-wise stats and a final performance report.
 //
@@ -259,7 +259,7 @@ void runQuiz(const vector<Question>& quiz) {
 // ---------- main ----------
 int main() {
     cout << "========================================\n"
-         << "        APTITUDE QUIZ (C++)\n"
+         << "           APTIQUIZ (C++)\n"
          << "  Percentages | Profit & Loss | Speed\n"
          << "  Ratio | Average | Time & Work\n"
          << "========================================\n";

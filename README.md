@@ -1,4 +1,4 @@
-# Aptitude Quiz — C++ Mini Project
+# AptiQuiz — C++ Mini Project
 
 A console-based **aptitude test simulator** written in C++. It combines a fixed
 question bank with randomly generated questions, so every run gives a fresh quiz
