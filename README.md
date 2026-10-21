@@ -1,4 +1,4 @@
-# Intelligent Aptitude Quiz and Performance Analysis System
+# Aptitude Quiz and Performance Analysis System
 
 **AptitudeArena** — C++ Mini Project
 

@@ -1,5 +1,5 @@
 // ============================================================
-//  Intelligent Aptitude Quiz and Performance Analysis System
+//  Aptitude Quiz and Performance Analysis System
 //  (AptitudeArena) - C++ Mini Project
 //  A randomised aptitude test with instant feedback,
 //  topic-wise stats and a final performance report.
@@ -260,8 +260,8 @@ void runQuiz(const vector<Question>& quiz) {
 // ---------- main ----------
 int main() {
     cout << "========================================\n"
-         << "  INTELLIGENT APTITUDE QUIZ AND\n"
-         << "  PERFORMANCE ANALYSIS SYSTEM\n"
+         << "  APTITUDE QUIZ AND PERFORMANCE\n"
+         << "  ANALYSIS SYSTEM\n"
          << "        (C++ Mini Project)\n"
          << "  Percentages | Profit & Loss | Speed\n"
          << "  Ratio | Average | Time & Work\n"
