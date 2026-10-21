@@ -1,4 +1,6 @@
-# AptitudeArena — C++ Mini Project
+# Intelligent Aptitude Quiz and Performance Analysis System
+
+**AptitudeArena** — C++ Mini Project
 
 A console-based **aptitude test simulator** written in C++. It combines a fixed
 question bank with randomly generated questions, so every run gives a fresh quiz
